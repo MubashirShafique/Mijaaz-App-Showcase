@@ -23,10 +23,14 @@ Unlike most recommendation systems that rely on heavy cloud APIs, Mijaaz works 1
 
 ## App Showcase
 #### Check out the interface and the seamless offline prediction flow:
-![Alt Text](7_Screenshot_of_App.png)
-![Alt Text](8_Screenshot_of_App.png)
-![Alt Text](9_Screenshot_of_App.png)
-![Alt Text](10_Screenshot_of_App.png)
+
+<p align="center">
+  <img src="7_Screenshot_of_App.png" width="200" alt="Home Screen">
+  <img src="8_Screenshot_of_App.png" width="200" alt="Result Screen">
+  <br>
+  <img src="9_Screenshot_of_App.png" width="200" alt="UI Details">
+  <img src="10_Screenshot_of_App.png" width="200" alt="Features">
+</p>
 
 
 ## Watch the Demo
