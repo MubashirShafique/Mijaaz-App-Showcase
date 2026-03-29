@@ -43,6 +43,7 @@ Unlike most recommendation systems that rely on heavy cloud APIs, Mijaaz works 1
 
 ## Watch the Demo
 Video is Also Given In the Repo
+(https://github.com/MubashirShafique/Mijaaz-App-Showcase/releases/tag/video_off_App)
 
 ## Technical Tech Stack
 - Mobile Framework: Flutter (Dart)
