@@ -26,9 +26,17 @@ Unlike most recommendation systems that rely on heavy cloud APIs, Mijaaz works 1
 
 <p align="center">
   <img src="7_Screenshot_of_App.png" width="200" alt="Home Screen">
+  <br>
+  <br>
+  <br>
   <img src="8_Screenshot_of_App.png" width="200" alt="Result Screen">
+   <br>
+  <br>
   <br>
   <img src="9_Screenshot_of_App.png" width="200" alt="UI Details">
+   <br>
+  <br>
+  <br>
   <img src="10_Screenshot_of_App.png" width="200" alt="Features">
 </p>
 
