@@ -1,5 +1,5 @@
 # Mijaaz-App-Showcase
-## AI-Powered Offline Spotify Music Recommender
+## AI Powered Offline Spotify Music Recommender
 Mijaaz is a cutting-edge music recommendation Android application built with Flutter. It leverages a custom-trained Artificial Neural Network (ANN) to provide personalized song suggestions for Pakistani and Indian music listeners.
 
 ## App Showcase
